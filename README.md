@@ -5,7 +5,7 @@
 ##  Overview
 This project explores a historical global temperature dataset dating back to **1750** and applies **Random Forest Regression** to predict the **Land and Ocean Average Temperature** based on land temperature features.
 
-The goal was to build an end-to-end pipeline using Python and scikit-learn that demonstrates real-world data preprocessing, model building, and evaluation — showcasing the application of machine learning for climate forecasting.
+The goal was to build an end-to-end pipeline using Python and scikit-learn that demonstrates real-world data preprocessing, model building, and evaluation; showcasing the application of machine learning for climate forecasting.
 
 
 ## What I learned 
