@@ -36,7 +36,7 @@ The goal was to build an end-to-end pipeline using Python and scikit-learn that 
 - Final cleaned dataset: **1,992 rows**
 
 ## Exploratory Data Analysis (EDA)
-
+![imagealt](correlation_heatmap.png)
 - Correlation heatmap shows strong correlation between land temperatures and the target
 - Visual checks ensured feature relevance and data sanity
 
